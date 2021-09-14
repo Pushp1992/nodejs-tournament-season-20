@@ -1,0 +1,28 @@
+{
+    "statusmessage": "Successful",
+    "statusCode": 1,
+    "data": {
+        "userList": [
+            {
+                "id": 1,
+                "name": "pushp",
+                "email": "pushp@gmail.com",
+                "signedIn": true,
+                "currentLocation": "Sarjapur",
+                "pin": "5620035",
+                "address": "Ds max sprinkles",
+                "verified": true
+            },
+            {
+                "id": 2,
+                "name": "priya",
+                "email": "priya@gmail.com",
+                "signedIn": false,
+                "currentLocation": "Marathalli",
+                "pin": "5620025",
+                "address": "Confuent max sprinkles",
+                "verified": false
+            }
+        ]
+    }
+}

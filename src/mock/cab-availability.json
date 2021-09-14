@@ -1,0 +1,47 @@
+{
+    "statusmessage": "Successful",
+    "statusCode": 1,
+    "data": {
+        "availableCabList": [
+            {
+                "id": 1,
+                "driverName": "harry",
+                "rating": "4",
+                "tripCount": "120",
+                "vehicleType": "Sedan",
+                "vehicleModel": "etios",
+                "code": "12560",
+                "pin": "5620035",
+                "bookingType": "City Taxi",
+                "currentLocation": "Sarjapur",
+                "availability": true
+            },
+            {
+                "id": 2,
+                "driverName": "sejal",
+                "rating": "2",
+                "tripCount": "178",
+                "vehicleType": "suv",
+                "vehicleModel": "ertica",
+                "code": "12550",
+                "pin": "5620025",
+                "bookingType": "outstation",
+                "currentLocation": "JP Nagar",
+                "availability": true
+            },
+            {
+                "id": 3,
+                "driverName": "john",
+                "rating": "5",
+                "tripCount": "140",
+                "vehicleType": "hatchback",
+                "vehicleModel": "mahindra",
+                "code": "12540",
+                "pin": "5620025",
+                "bookingType": "rentals",
+                "currentLocation": "Jaynagar",
+                "availability": false
+            }
+        ]
+    }
+}
